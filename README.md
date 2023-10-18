@@ -23,5 +23,5 @@ https://sobhikadi.github.io/HYF-Module-HTMLCSSGIT/Week-3/Uber-clone/index.html
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobhikadi&size_weight=0.5&count_weight=0.5&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobhikadi&size_weight=0.5&count_weight=0.5&theme=dark&langs_count=10)
 
