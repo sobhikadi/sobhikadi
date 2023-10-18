@@ -13,5 +13,5 @@ A full stack software engineer passionate about coding with proficiency in a var
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobhikadi&size_weight=0.5&count_weight=0.5&theme=dark&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobhikadi&size_weight=0.5&count_weight=0.5&theme=dark)
 
